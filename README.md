@@ -8,7 +8,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Device Based Devlopments
+ 🔭 I’m currently working on Device Based Devlopments
 - 🌱 I’m currently learning ...TensorFlow
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
