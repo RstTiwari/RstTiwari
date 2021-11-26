@@ -13,7 +13,7 @@
 <details>
 <summary>Full Stack Developer 🍥</summary>
   <ul>
-    <li><a href="hhttps://hardwarevale.com/">HardwareVale.com</a></li>
+    <li><a href="https://hardwarevale.com/">HardwareVale.com</a></li>
     <li><a href="https://amzon-clone-97535.web.app/">Amzonclone</a></li>
     <li><a href="https://rst17.vercel.app/">Personal Porfolio</a></li>
     <li>Many more on and out of Github...</li>
