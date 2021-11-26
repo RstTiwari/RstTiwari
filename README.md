@@ -64,7 +64,7 @@
 
 <summary>What do you do other than building softwares & systems? 💁‍♂️</summary>
   <ul>
-    <li>Reading Novels and books <a href="https://ashutoshhathidara.wordpress.com">ashutoshhathidara.wordpress.com</a>.</li>
+    <li>Reading Novels and books.</li>
     <li>I write poetry and play chess </li>
     <li>I design, build and deploy beautiful websites. Whenever I am free, I am used to create designs in Figma.</li>
   </ul>
@@ -77,13 +77,3 @@
   <li>You can react ❤️ to my LinkedIn posts.</li>
 </ul>
 
-![Ashutosh's Github Profile Views](https://komarev.com/ghpvc/?username=ashutosh1919&color=blueviolet)  
-
-
-<a href="https://github.com/jstrieb/github-stats">
-
-![](https://github.com/ashutosh1919/ashutosh1919/blob/master/generated/overview.svg)
-![](https://github.com/ashutosh1919/ashutosh1919/blob/master/generated/languages.svg)
-
-</a>
-<!-- [![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true&count_private=true)](https://github.com/ashutosh1919/github-readme-stats)   -->
