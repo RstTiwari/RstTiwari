@@ -4,11 +4,7 @@
 <img align='right' src="https://github.com/ashutosh1919/ashutosh1919/blob/master/dev-jane-021.jpg" width="230" />
 
 <a href="https://www.linkedin.com/in/rst-tiwari-77a7a1212/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
-
-
 <a href="https://github.com/RstTiwari"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-
-<a href="mailto:rstiwari17.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/Rst1705"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
 
 
