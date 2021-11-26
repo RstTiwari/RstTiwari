@@ -22,7 +22,7 @@
   </ul>
 </details>
 <details>
-  <summary> Web Developer  <a >Nevon Tech</a> 🤖</summary>
+  <summary> Web Developer  at <a >Nevon  Tech</a> 🤖</summary>
   <ul>
     <li>Created, Developed scalable static website using ReactJs , Bootstrap Html and CSS. Develop new user-facing features</li>
     <li>Developed reusable code and libraries for future use Ensure the technical feasibility of UI/UX designs Optimize application.</li>
@@ -35,7 +35,7 @@
 <summary>Community Influencer 👁️‍🗨️</summary>
 <ul>
   
-  <li>Join Me on LinkedIn to see my daily posts.</li>
+  <li>Join Me on LinkedIn/Twitter to see my daily posts.</li>
 </ul>
 </details>
 <details>
