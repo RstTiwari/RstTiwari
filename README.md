@@ -16,6 +16,7 @@
     <li><a href="https://hardwarevale.com/">HardwareVale.com</a></li>
     <li><a href="https://amzon-clone-97535.web.app/">Amzonclone</a></li>
     <li><a href="https://rst17.vercel.app/">Personal Porfolio</a></li>
+    <li><a href="https://intershalaclone.netlify.app/">Intershala_Clone</a></li>
     <li>Many more on and out of Github...</li>
     
     
