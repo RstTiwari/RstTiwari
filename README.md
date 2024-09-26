@@ -1,6 +1,6 @@
 
 
-<h1>Hello Folks, I am <a href="https://ashutoshhathidara.com/">RST</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hello Folks, I am <a >RST</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/RstTiwari/RstTiwari/blob/main/dev-jane-021.jpg" width="230" />
 
 <a href="https://www.linkedin.com/in/rst-tiwari-77a7a1212/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
